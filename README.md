@@ -1,3 +1,4 @@
+修复了原版卡死的问题，同时针对于macos进行了优化
 [English](README_EN.md) | 简体中文
 
 # IDA NO MCP
